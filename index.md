@@ -2,7 +2,7 @@ I finally have a *blog*!
 
 Hi! This is Amit Kumar Jena, a 4th year student of Integrated M.Tech, Mathematics and Computing at IIT (ISM) Dhanbad. My major araes of interests include Natural Language Processing, Deep Learning and Machine Learning in general. I love to keep myself updated with latest trends in deep learning research. Shoot me a mail if you have anything interesting to discuss about!
 
-![My image](images/myPic.jpg)
+<img src="images/myPic.jpg" width="250" height="250">
 
 ## My first Research Paper!
 
